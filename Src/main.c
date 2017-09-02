@@ -212,7 +212,7 @@ static void MX_I2C1_Init(void)
   }
 
 }
-
+//test
 /* TIM2 init function */
 static void MX_TIM2_Init(void)
 {
